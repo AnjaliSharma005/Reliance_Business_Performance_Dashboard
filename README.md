@@ -1,4 +1,4 @@
-This interactive Power BI dashboard provides a comprehensive overview of Reliance's sales and operational performance across different regions and states.
+This interactive Power BI dashboard provides a comprehensive overview of Reliance's sales and operational performance across different regions and states.  Key visualizations include:
 
 Region-wise Revenue and State-wise Transactions to monitor geographical performance.
 
